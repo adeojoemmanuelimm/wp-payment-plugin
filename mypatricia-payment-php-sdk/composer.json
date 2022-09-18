@@ -1,0 +1,19 @@
+{
+    "name": "mypatricia/payment",
+    "description": "A simple SDK for integrating to mypatricia Payment payment gateway",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "1.*",
+        "mashape/unirest-php": "^3.0"
+    },
+    "require-dev": {
+
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adeojo Emmanuel",
+            "email": "emmanuel.adeojo.ibk@gmail.com"
+        }
+    ]
+}
